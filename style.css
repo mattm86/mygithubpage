@@ -9,19 +9,10 @@ footer {
     font-family:"Times New Roman",Times,serif;
 }
 
-#logo {
-    background:url(original.jpg)center no-repeat;
-    display:block;
-    overflow:hidden;
-    text-indent:100%;
-    white-space:nowrap;
-    height:300px;
-}
-
 nav {
     background-color:#D0D0D0;
     color:white;
-    text-align:center;
+    /**text-align:center;**/
     font-size:150%;
     /**margin:5px;**/
     margin-bottom:15px;
@@ -33,7 +24,7 @@ td {
     padding:5px;
 }
 
-p {text-align:center;}
+.center {text-align:center;}
 
 .home {
     color:black;
@@ -48,10 +39,8 @@ section#detail {
     font-size:150%;
 }
 
-h2 {text-align: center;}
-
 ul#select li {
-    display: inline-block; 
+    display: inline-block;
     zoom: 1;
     *display: inline;
 }
@@ -68,7 +57,7 @@ ol {
 }
 
 .fleft {
-    float:left; 
+    float:left;
     width: 33%;
     height: 400px;
 }
