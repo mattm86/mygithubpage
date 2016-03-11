@@ -29,11 +29,12 @@ Temporary Items
 .apdisk
 
 
-### NetBeans ###
-nbproject/private/
-build/
-nbbuild/
-dist/
-nbdist/
-nbactions.xml
-.nb-gradle/
+_site
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+codekit-config.json
+node_modules
+Gemfile.lock
+.sass-cache
+.jekyll-metadata
