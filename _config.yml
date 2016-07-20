@@ -3,15 +3,18 @@ description:      A walk through the indecisive mind of Matt
 disqus_shortname:
 reading_time:     false
 words_per_minute: 200
-# Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
-# When testing locally leave blank or use http://localhost:4000
-url:              http://matthewmcnutt.me
+#local version defaults blank for http://localhost:4000
+url:
 
 # Owner/author information
 owner:
   name:           Matthew McNutt
   avatar:         avatar.jpg
+<<<<<<< HEAD
   bio:            "Application Developer | Web Designer | Air Force Officer | Car Enthusiast"
+=======
+  bio:            "Application Developer | Air Force Officer | Car Enthusiast"
+>>>>>>> dev-branch
   email:          Matt@MatthewMcNutt.me
   # Social networking links used in footer. Update and remove as you like.
   twitter:
