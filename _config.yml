@@ -10,11 +10,7 @@ url:
 owner:
   name:           Matthew McNutt
   avatar:         avatar.jpg
-<<<<<<< HEAD
-  bio:            "Application Developer | Web Designer | Air Force Officer | Car Enthusiast"
-=======
   bio:            "Application Developer | Air Force Officer | Car Enthusiast"
->>>>>>> dev-branch
   email:          Matt@MatthewMcNutt.me
   # Social networking links used in footer. Update and remove as you like.
   twitter:
